@@ -1,0 +1,11 @@
+{
+	" rodapé ": {
+		" logo ": " via.placeholder.com/100/0F00F0/808080%20?text=Front-end%20assignment ",
+		" links ": [{
+			" políticas ": " Políticas de compra ",
+			" aboutUs ": " Sobre nós ",
+			" contactUs ": " Entrar em contato "
+		}],
+		" copyright ": " Desenvolvido por <Insira seu nome> "
+	}
+}
